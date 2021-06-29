@@ -1,0 +1,10 @@
+!*.c
+!*.cpp
+!*.h
+!*.hpp
+!.gitignore
+CMakeCache*
+CMakeFiles/
+CPack*
+Makefile
+cmake_install.cmake
